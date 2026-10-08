@@ -1,6 +1,6 @@
 ## Hi, I'm Mostafa Salem 👋
 
-**Data Analyst** | Excel • SQL • Power BI • DAX • Data Visualization
+**Data Analyst** | Excel • python • SQL • Power BI • DAX • Data Visualization
 
 📍 Tanta, Egypt
 🔭 Currently working on **KPI monitoring and operational reporting** at Telecom Egypt
